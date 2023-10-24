@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielLana
-- 👀 I’m interested in become a fullstack dev, and currently a front-end junior.
-- 🌱 I’m currently learning Flutter and Dart.
-- 💞️ I’m looking to collaborate on any small project that can give me the chance to expand my knoledge and pratice my front-end skills, and even learn more about back-end too.
+- 👀 I'm a fullstack Software Engineer.
+- 🌱 I’m currently learning C# and .Net.
+- 💞️ I’m looking to collaborate on any small project that can give me the chance to expand my knoledge and pratice all my skills.
 - 📫 How to reach me: gabriellanapro@gmail.com
 
 <!---
